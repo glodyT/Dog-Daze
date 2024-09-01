@@ -1,0 +1,40 @@
+{
+    "dogs": [
+      {
+        "name": "Buddy",
+        "age": "2 years",
+        "breed": "Labrador Retriever",
+        "gender": "Male",
+        "description": "Friendly and energetic. Loves to play fetch."
+      },
+      {
+        "name": "Bella",
+        "age": "3 years",
+        "breed": "German Shepherd",
+        "gender": "Female",
+        "description": "Loyal and protective. Great with kids."
+      },
+      {
+        "name": "Charlie",
+        "age": "4 years",
+        "breed": "Golden Retriever",
+        "gender": "Male",
+        "description": "Calm and affectionate. Enjoys long walks."
+      },
+      {
+        "name": "Luna",
+        "age": "1 year",
+        "breed": "Beagle",
+        "gender": "Female",
+        "description": "Curious and playful. Loves to sniff around."
+      },
+      {
+        "name": "Max",
+        "age": "5 years",
+        "breed": "Bulldog",
+        "gender": "Male",
+        "description": "Laid-back and relaxed. Prefers a quiet environment."
+      }
+    ]
+  }
+  
